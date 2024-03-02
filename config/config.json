@@ -1,10 +1,10 @@
 {
-  "token": "Bot_TOKEN",
+  "token": "MTE3MDM0MjI3NTc0MjcwMzY1Ng.G2-g_q.1eGCC0v1XKzazN5Z1i4GsuzpS62IHUiZa_dbzU",
   "prefix": "!",
   "ownerIDS": [
-    "882481863661342770"
+    "1136854284575703221"
   ],
-  "mongo": "MONGO_DB_URL",
+  "mongo": "mongodb+srv://Jarvis:nitrixexe@cluster0.bxzzf70.mongodb.net/?retryWrites=true&w=majority",
   "everyoneMention": false,
   "hostedBy": true,
   "customFilters": {
